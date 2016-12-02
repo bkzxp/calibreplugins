@@ -1,2 +1,2 @@
 # calibreplugins
-calibre的插件
+自己写的calibre的插件
